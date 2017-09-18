@@ -1,0 +1,21 @@
+{
+	"plugin": {
+		"name": "Syms2Elf",
+		"type": ["core", "ui", "architecture", "binaryview"],
+		"api": "python2",
+		"description": "Export symbol information to ELF.",
+		"longdescription": "",
+		"license": {
+			"name": "GPL",
+			"text": ""
+		},
+		"dependencies": {
+		},
+		"version": "1.0 alpha",
+		"author": "monosource",
+		"minimumBinaryNinjaVersion": {
+			"dev": "1.0.dev-576",
+			"release": "9999"
+		}
+	}
+}
